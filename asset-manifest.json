@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ikea-clone/static/css/main.95d2525e.css",
+    "main.js": "/Ikea-clone/static/js/main.0aee94e1.js",
+    "static/js/787.05b8dc97.chunk.js": "/Ikea-clone/static/js/787.05b8dc97.chunk.js",
+    "index.html": "/Ikea-clone/index.html",
+    "main.95d2525e.css.map": "/Ikea-clone/static/css/main.95d2525e.css.map",
+    "main.0aee94e1.js.map": "/Ikea-clone/static/js/main.0aee94e1.js.map",
+    "787.05b8dc97.chunk.js.map": "/Ikea-clone/static/js/787.05b8dc97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95d2525e.css",
+    "static/js/main.0aee94e1.js"
+  ]
+}
